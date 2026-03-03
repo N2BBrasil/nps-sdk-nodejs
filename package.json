@@ -23,7 +23,7 @@
   "main": "lib/nps-sdk.js",
   "dependencies": {
     "ini": "^2.0.0",
-    "soap": "^0.35.0",
+    "soap": "^1.7.1",
     "winston": "^3.0.0-rc1",
     "xml-beautifier": "^0.3.0"
   },
